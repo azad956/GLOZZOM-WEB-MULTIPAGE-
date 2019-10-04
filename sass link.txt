@@ -1,0 +1,1 @@
+sass --watch C:\Users\AZAD\Desktop\glozzom\scss\style.scss:C:\Users\AZAD\Desktop\glozzom\css\style.css
